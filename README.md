@@ -1,6 +1,8 @@
 # Huffman-Compressor
 Huffman compression algorithm made in java. Starter code was provided by profs at the University of Ottawa, encoding + decoding algorithms created by me.
 
+None of the classes provided in net.datastructures was written by me. they were provided by profressors at UO
+
 Compression uses Huffman.java and multiple interfaces and classes provided in net.datastructures package.
 
 Code is fully functional, worked for all of the test cases provided, and is able to proccess and compress signed bytes.
